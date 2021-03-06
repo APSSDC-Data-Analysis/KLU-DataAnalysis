@@ -27,5 +27,5 @@ Everyone should compulsory follow the below instruction in order to get the atte
 4. conditions(if,nested if)
 5. Loops (for,while)
 
-### Day01 Jupyter Notebook [[.ipynb format]](Day02_26Nov2020/Python_Overview_&_Numpy_Basics.ipynb)
+### Day01 Jupyter Notebook [[.ipynb format]](https://github.com/APSSDC-Data-Analysis/KLU-DataAnalysis/blob/main/Day-1/DAy-1(05-03-2021).ipynb)
 ### [[Day01_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/9f301d253a9716b553fa7827e12ccaffe5bc353b08ff9ed6bb830fce54f5416c)
