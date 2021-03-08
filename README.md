@@ -11,7 +11,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 5. Minimum **`150`** minutes should attend in **`180 minutes`** session with same login format
 ----------------------------
 
-## Day01 Revision of python(06-Mar-2021)
+## Day01 Revision of python(05-Mar-2021)
 
 ## Discussed Concepts:
 
@@ -29,3 +29,16 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ### Day01 Jupyter Notebook [[.ipynb format]](https://github.com/APSSDC-Data-Analysis/KLU-DataAnalysis/blob/main/Day-1/DAy-1(05-03-2021).ipynb)
 ### [[Day01_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/9f301d253a9716b553fa7827e12ccaffe5bc353b08ff9ed6bb830fce54f5416c)
+----------------------------------
+
+## Day02 Introduction to data Analysis(05-Mar-2021)
+
+## Discussed Concepts:
+
+1. Introduction to Data Analysis
+2. Introduction to Numpy
+3. Methods in Numpy
+
+
+### Day02 Jupyter Notebook [[.ipynb format]](https://github.com/APSSDC-Data-Analysis/KLU-DataAnalysis/blob/main/Day-1/DAy-1(05-03-2021).ipynb)
+### [[Day02_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/be4264340898817f32b4c46e5147ecba6739e7a1bd5c03f2f841979b6cd7445c)
