@@ -41,11 +41,11 @@ Everyone should compulsory follow the below instruction in order to get the atte
       1. functions
 3. Introduction to Data Analysis
 4. Introduction to Numpy
-      1.Installation to numpy
-      2.Creating an array
-            1. 1D-array
-            2. 2D-array
-            3. 3D-array
+1.Installation to numpy
+2.Creating an array
+      1. 1D-array
+      2. 2D-array
+      3. 3D-array
 5.Indexing
 6.Accessing the elements
 7.Ravel and flatten
