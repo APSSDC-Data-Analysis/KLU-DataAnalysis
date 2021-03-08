@@ -39,17 +39,17 @@ Everyone should compulsory follow the below instruction in order to get the atte
       1. sets
       1. dictionary
       1. functions
-3. Introduction to Data Analysis
-4. Introduction to Numpy
+1. Introduction to Data Analysis
+1. Introduction to Numpy
 1.Installation to numpy
-2.Creating an array
+1.Creating an array
       1. 1D-array
       2. 2D-array
       3. 3D-array
-5.Indexing
-6.Accessing the elements
-7.Ravel and flatten
-8.Statistical methods
+1.Indexing
+1.Accessing the elements
+1.Ravel and flatten
+1.Statistical methods
 
 ### Day02 Jupyter Notebook [[.ipynb format]](https://github.com/APSSDC-Data-Analysis/KLU-DataAnalysis/blob/main/Day-1/Day-2/Day-2(06-03-2021).ipynb)
 ### [[Day02_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/be4264340898817f32b4c46e5147ecba6739e7a1bd5c03f2f841979b6cd7445c)
