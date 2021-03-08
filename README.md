@@ -41,14 +41,15 @@ Everyone should compulsory follow the below instruction in order to get the atte
       1. functions
 1. Introduction to Data Analysis
 1. Introduction to Numpy
-1.Installation to numpy
-1.Creating an array
+2. Installation to numpy
+3. creating an array
+
       1. 1D-array
       2. 2D-array
       3. 3D-array
-4. Indexing and Accessing the elements
-5. Ravel and flatten
-6. Statistical methods
+6. Indexing and Accessing the elements
+7. Ravel and flatten
+8. Statistical methods
 
 
 
