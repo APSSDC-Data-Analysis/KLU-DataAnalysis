@@ -58,3 +58,13 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ### [[Day02_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/be4264340898817f32b4c46e5147ecba6739e7a1bd5c03f2f841979b6cd7445c)
 
 --------------------------
+
+## Day05 Matplotlib(10-Mar-2021)
+
+
+
+
+
+
+### Day05 Jupyter Notebook [[.ipynb format]](https://github.com/APSSDC-Data-Analysis/KLU-DataAnalysis/blob/main/Day5/Matplotlib.ipynb)
+### [[Day02_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/a7a59dd11d77c112571f95f6bcd7e5e7e228e9ce44572e185e330a5fb9ffc4d7)
