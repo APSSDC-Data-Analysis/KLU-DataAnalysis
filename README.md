@@ -97,7 +97,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
       9.reg plot
       10.Pair plot
       11.Heat Map
- 
+
 
 
 
