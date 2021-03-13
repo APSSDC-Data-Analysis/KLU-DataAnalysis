@@ -61,10 +61,47 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 ## Day05 Matplotlib(10-Mar-2021)
 
+## Discussed Concepts:
 
-
-
+1.Intoduction to Matplotlib
+2.some plot in matplotlib
+      1.Line plot
+      2.Barplot
+      3.pie chart
+      4.Histogram
+3.How to save an image
+4.How to read an image
 
 
 ### Day05 Jupyter Notebook [[.ipynb format]](https://github.com/APSSDC-Data-Analysis/KLU-DataAnalysis/blob/main/Day5/Matplotlib.ipynb)
 ### [[Day05_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/a7a59dd11d77c112571f95f6bcd7e5e7e228e9ce44572e185e330a5fb9ffc4d7)
+
+--------------------------
+
+## Day06 Seaborn(12-Mar-2021)
+
+## Discussed Concepts:
+
+1.Intoduction to Seaborn
+2.Loading the datsets in Seaborn
+3.color palette
+4.some plot in seaborn
+      1.Strip plot
+      2.swarm plot
+      3.count plot
+      4.bar graph
+      5.count plot
+      6.Box plot
+      7.Violin plot
+      8.joint plot
+      9.reg plot
+      10.Pair plot
+      11.Heat Map
+ 
+
+
+
+
+### Day06 Jupyter Notebook [[.ipynb format]](https://github.com/APSSDC-Data-Analysis/KLU-DataAnalysis/blob/main/Day5/Matplotlib.ipynb)
+### [[Day06_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/5d5a30298322c8c10015c9747fbc239fc550e6fe1010ca7f186a378f7df900f4)
+
