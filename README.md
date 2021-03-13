@@ -59,15 +59,17 @@ Everyone should compulsory follow the below instruction in order to get the atte
 
 --------------------------
 ## Day05 Matplotlib(10-Mar-2021)
+
 ## Discussed Concepts:
+
 1.Intoduction to Matplotlib
-1.some plot in matplotlib
+3.some plot in matplotlib
       1.Line plot
       1.Barplot
       1.pie chart
       1.Histogram
-1.How to save an image
-1.How to read an image
+4.How to save an image
+5.How to read an image
 
 
 ### Day05 Jupyter Notebook [[.ipynb format]](https://github.com/APSSDC-Data-Analysis/KLU-DataAnalysis/blob/main/Day5/Matplotlib.ipynb)
