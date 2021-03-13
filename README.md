@@ -31,7 +31,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ### [[Day01_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/9f301d253a9716b553fa7827e12ccaffe5bc353b08ff9ed6bb830fce54f5416c)
 ----------------------------------
 
-## Day02 Introduction to data Analysis(05-Mar-2021)
+## Day02 Introduction to data Analysis(06-Mar-2021)
 
 ## Discussed Concepts:
 
@@ -58,6 +58,40 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ### [[Day02_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/be4264340898817f32b4c46e5147ecba6739e7a1bd5c03f2f841979b6cd7445c)
 
 --------------------------
+
+## Day03 Continuation of Numpy andIntroduction to Pandas(08-Mar-2021)
+
+## Discussed Concepts:
+
+1. np.ones()
+2. np.zeros()
+3. np.linspace()
+4. Random methods in numpy
+5. Pandas Library
+6. Create Series
+7. Create DataFrames
+8. Indexing
+9. Sciling
+10. Loading a dataset
+
+
+### Day03 Jupyter Notebook [[.ipynb format]](https://github.com/APSSDC-Data-Analysis/KLU-DataAnalysis/blob/main/08-03-2021(Day3)/08-03-2021.ipynb)
+### [[Day03_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/948bdb0d230500dd069a04ab35eb0ca4102df2cd00545977156aa4b20db52174)
+---------------------------
+
+## Day04 Continuation to Pandas & data Preprocessing(09-Mar-2021)
+
+## Discussed Concepts:
+
+1. Data Cleaning
+2. Data Preprocessing
+
+
+
+### Day04 Jupyter Notebook [[.ipynb format]](https://github.com/APSSDC-Data-Analysis/KLU-DataAnalysis/blob/main/09-03-2020(Day4)/09-03-2020.ipynb)
+### [[Day04_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/51a2d6f5c5ab987f325cbe59aec8a8dba7776a9ee3fa948e7719f19b2accaf86)
+
+---------------------------
 ## Day05 Matplotlib(10-Mar-2021)
 
 ## Discussed Concepts:
