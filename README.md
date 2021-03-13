@@ -97,6 +97,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
       9.reg plot
       10.Pair plot
       11.Heat Map
+      12.
 
 ### Day06 Jupyter Notebook [[.ipynb format]](https://github.com/APSSDC-Data-Analysis/KLU-DataAnalysis/blob/main/Day5/Matplotlib.ipynb)
 ### [[Day06_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/5d5a30298322c8c10015c9747fbc239fc550e6fe1010ca7f186a378f7df900f4)
