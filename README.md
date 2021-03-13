@@ -58,11 +58,8 @@ Everyone should compulsory follow the below instruction in order to get the atte
 ### [[Day02_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/be4264340898817f32b4c46e5147ecba6739e7a1bd5c03f2f841979b6cd7445c)
 
 --------------------------
-
 ## Day05 Matplotlib(10-Mar-2021)
-
 ## Discussed Concepts:
-
 1.Intoduction to Matplotlib
 2.some plot in matplotlib
       1.Line plot
@@ -97,7 +94,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
       9.reg plot
       10.Pair plot
       11.Heat Map
-      12.
+      
 
 ### Day06 Jupyter Notebook [[.ipynb format]](https://github.com/APSSDC-Data-Analysis/KLU-DataAnalysis/blob/main/Day5/Matplotlib.ipynb)
 ### [[Day06_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/5d5a30298322c8c10015c9747fbc239fc550e6fe1010ca7f186a378f7df900f4)
